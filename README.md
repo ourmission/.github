@@ -1,1 +1,1 @@
-# .github
+Helping bring innovators together.
